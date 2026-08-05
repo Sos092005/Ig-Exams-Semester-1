@@ -1,100 +1,23 @@
-#
-<div id="user-content-toc" align="center">
-  <ul style="list-style: none;">
-    <summary>
-      <h1>Ig1-Exams</h1>
-    </summary>
-  </ul>
-</div>
+# 
 
-<div align="center"><i>session.matiere.annee.classe.pdf</i></div>
+# Comment contribuer ?
+### Contributeur externe
+*Pour ceux qui veulent envoyer leurs épreuves d'examens*
 
-<div align="center">
-
-<div id="user-content-toc" align="center">
-  <ul style="list-style: none;">
-    <summary>
-      <h2>Code de session</h2>
-    </summary>
-  </ul>
-</div>
-
-| Session            | Code |
-|:------------------:|:----:|
-| session normale    | sn   |
-| session rattrapage | sr   |
+1. Vous ouvrez simplement une [Issue](https://github.com/Sos092005/Ig2-Exams-Semester-3-4/issues) (un ticket) sur le dépôt
+2. Vous y joignez votre scan pdf ou image ([en savoir plus](/contribution_guide/external_contribution.md))
 
 
+### Contributeur interne
+*Faites partir de l'équipe qui gère l'archive*
 
-<div id="user-content-toc" align="center">
-  <ul style="list-style: none;">
-    <summary>
-      <h2>Code de matière</h2>
-      <h2>Semestre 1</h2>
-    </summary>
-  </ul>
-</div>
-
-| Matière                                       | Code      |
-|:--------------------------------------------- | :---------|
-| algèbre linéaire 1                            | algebre1  |
-| analyse mathématique 1                        | anamath1  |
-| économie générale                             | ecogene   |
-| économie d'entreprise                         | ecoentrp  |
-| comptabilité générale                         | compta    |
-| bureautique                                   | bureaut   |
-| initiation à l'algorithmique                  | algo      |
-| mathématiques pour informatique               | mathinfo  |
-| techniques de l'expression écrite et orale    | teeo      |
-| entrepreuneuriat 1                            | entrp1    |
-
-
-
-
-
-<div id="user-content-toc" align="center">
-  <ul style="list-style: none;">
-    <summary>
-      <h2>Semestre 2</h2>
-    </summary>
-  </ul>
-</div>
-
-| Matière                                      | Code      |
-|:--------------------------------------------:|:---------:|
-| algebgre linéaire 2                          | algebre2  |
-| analyse mathématique 2                       | anamath2  |
-| mathématiques financières                    | mathfine  |
-| analyse financière                           | anafine   |
-| initiation a la programmation                | python1   |
-| architecture et technologie des ordinateurs  | ato       |
-| système linux                                | linux     |
-| web design                                   | webdesign |
-
-
-
-
-<div id="user-content-toc" align="center">
-  <ul style="list-style: none;">
-    <summary>
-      <h2>Code de classe</h2>
-    </summary>
-  </ul>
-</div>
-
-*cas d'épreuves différentes par classe*
-
-| A | B | C |
-|:-:|:-:|:-:|
-| a | b | c |
-
-</div>
+Juste un mot à votre sénateur de classe à propos.
 ## 
 
 <div id="user-content-toc" align="center">
   <ul style="list-style: none;">
     <summary>
-      <h2>CONTRIBUTIONS ARE OPEN</h2>
+      <h2>Arigato !</h2>
     </summary>
   </ul>
 </div>

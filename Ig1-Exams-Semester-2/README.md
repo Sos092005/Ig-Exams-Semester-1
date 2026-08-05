@@ -2,7 +2,7 @@
 <div id="user-content-toc" align="center">
   <ul style="list-style: none;">
     <summary>
-      <h1>Ig1-Exams-Semester-2</h1>
+      <h1>Semestre 2</h1>
     </summary>
   </ul>
 </div>
@@ -63,12 +63,11 @@
 
 </div>
 
-## 
 
 <div id="user-content-toc" align="center">
   <ul style="list-style: none;">
     <summary>
-      <h2>CONTRIBUTIONS ARE OPEN</h2>
+      <h2> </h2>
     </summary>
   </ul>
 </div>
